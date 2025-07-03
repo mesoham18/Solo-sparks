@@ -3,7 +3,7 @@
 Solo Sparks is a self-discovery feature designed to help users build emotional intelligence and self-awareness through personalized solo activities. Users engage in daily or weekly quests, submit multimedia reflections, earn Spark Points, and redeem them for rewards like profile boosts or exclusive content. It's a journey to help individuals fall in love with themselves before seeking connections with others.
 
 
-
+live output - https://ssparks23554.netlify.app/
 ---
 
 ## 📱 Frontend
